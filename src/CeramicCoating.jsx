@@ -63,13 +63,13 @@ function CeramicCoating() {
         }}
       >
         <div className="text-left ml-[6%] mb-10 px-4 md:px-0">
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-cyan-300 tracking-tight">
+          <h1 className="text-4xl anek md:text-5xl lg:text-6xl font-bold mb-4 text-cyan-300 tracking-tight">
             Ceramic Coating
           </h1>
-          <p className="text-gray-400 mt-4 md:mt-[5%] w-full md:w-[90%] lg:w-[90%] text-sm md:text-base lg:text-[17px] leading-relaxed max-w-xs md:max-w-md lg:max-w-lg">
+          <p className="text-gray-400 anek mt-4 md:mt-[5%] w-full md:w-[90%] lg:w-[90%] text-sm md:text-base lg:text-[17px] leading-relaxed max-w-xs md:max-w-md lg:max-w-lg">
             Ceramic coating is a liquid polymer applied to cars that bonds with paint, providing glossy, long-lasting protection against dirt and damage.
           </p>
-          <button className="w-32 md:w-35 font-semibold rounded-xl mt-6 md:mt-[4%] cursor-pointer text-black h-11 bg-white px-4">
+          <button className="w-32 anek md:w-35 font-semibold rounded-xl mt-6 md:mt-[4%] cursor-pointer text-black h-11 bg-white px-4">
             Book Now
           </button>
         </div>
@@ -103,14 +103,14 @@ function CeramicCoating() {
         <div className="md:pl-[4%] lg:pl-0 mb-8 md:mb-16">
           <div className="border-l-4 md:border-l-5 border-cyan-300 pl-4 md:pl-7 mb-6 md:mb-8">
             <h2 className="text-xl md:text-3xl font-light lg:text-2xl text-white mb-2">What Is</h2>
-            <div className="text-2xl -mt-4 lg:text-3xl md:text-4xl font-bold text-white -mt-1 lg:-mt-2">
+            <div className="text-2xl anek -mt-4 lg:text-3xl md:text-4xl font-bold text-white -mt-1 lg:-mt-2">
               Ceramic Coating?
             </div>
             <div className="space-y-4 mt-4 md:mt-6 text-gray-300 text-sm leading-relaxed max-w-full md:max-w-xl lg:max-w-180">
-              <p className="md:text-justify text-left lg:leading-normal md:leading-normal leading-[21px] lg:text-justify">
+              <p className="md:text-justify anek text-left lg:leading-normal md:leading-normal leading-[21px] lg:text-justify">
                 Ceramic coating is a liquid polymer applied to a vehicle's exterior that chemically bonds with the factory paint, forming a protective layer. This invisible shield offers long-lasting protection against UV ray oxidation, chemical stains, bird droppings, and minor scratches. It's highly hydrophobic, meaning water, dirt, and contaminants bead up and slide off easily, making cleaning much easier.
               </p>
-              <p className="md:text-justify text-left lg:leading-normal md:leading-normal leading-[21px] lg:text-justify">
+              <p className="md:text-justify anek text-left lg:leading-normal md:leading-normal leading-[21px] lg:text-justify">
                 Unlike wax, which wears off quickly, ceramic coatings can last for years with proper care. They also enhance the vehicle's gloss and depth, giving the paint a richer, more vibrant look. While not bulletproof, ceramic coatings significantly reduce the risk of surface damage and preserve the car's appearance. It's a popular choice among car owners who want extended protection and low-maintenance shine.
               </p>
             </div>
@@ -131,18 +131,18 @@ function CeramicCoating() {
       <div className="w-full px-4 md:px-0 py-8 md:py-0 lg:h-[20vh] lg:-mt-8 md:pl-[4%] lg:pl-[6%]">
         <div className="flex flex-col md:mt-[8%] lg:mt-[0%] md:flex-row lg:flex-row gap-6 md:gap-8 lg:gap-25 bg-black">
           <div className="flex-1">
-            <h3 className="text-base md:text-lg font-semibold mb-2 md:mb-3 text-cyan-300">
+            <h3 className="text-base anek md:text-lg font-semibold mb-2 md:mb-3 text-cyan-300">
               Invisible and Durable Protection:
             </h3>
-            <p className="text-gray-400 md:w-70 md:text-justify text-sm lg:text-sm lg:-mt-2 leading-relaxed lg:w-65">
+            <p className="text-gray-400 anek md:w-70 md:text-justify text-sm lg:text-sm lg:-mt-2 leading-relaxed lg:w-65">
               Ceramic coating forms a clear, long-lasting layer that protects your vehicle's paint from UV rays, contaminants, and minor scratches.
             </p>
           </div>
           <div className="flex-1 lg:ml-[-50%]">
-            <h3 className="text-base md:text-lg font-semibold mb-2 md:mb-3 text-cyan-300">
+            <h3 className="text-base anek md:text-lg font-semibold mb-2 md:mb-3 text-cyan-300">
               Preserves Value and Appearance:
             </h3>
-            <p className="text-gray-400 md:w-70 md:text-justify text-sm lg:text-sm lg:-mt-2 leading-relaxed lg:w-75">
+            <p className="text-gray-400 anek md:w-70 md:text-justify text-sm lg:text-sm lg:-mt-2 leading-relaxed lg:w-75">
               Ceramic coating maintains your vehicle's glossy finish, prevents paint damage and fading, helping retain its showroom look and resale value.
             </p>
           </div>
@@ -153,8 +153,8 @@ function CeramicCoating() {
       <div className="w-full px-4 md:px-0 py-8 md:py-12 lg:py-16 lg:h-[80vh] md:pl-[4%] lg:pl-[6%]">
         <div className="mt-8 md:mt-12 lg:mt-20">
           <div className="mb-6 lg:mb-6">
-            <h2 className="text-lg md:text-xl font-normal text-gray-400 mb-2">Benefits of</h2>
-            <div className="text-3xl md:text-4xl font-bold text-white -mt-1 lg:-mt-3">
+            <h2 className="text-lg md:text-xl font-normal text-gray-400 mb-2 anek">Benefits of</h2>
+            <div className="text-3xl anek md:text-4xl font-bold text-white -mt-1 lg:-mt-3">
               Ceramic Coating
             </div>
           </div>

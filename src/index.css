@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+*{
+    font-family: "Anek Devanagari", sans-serif;
+}
+
+.anek{
+    font-family: "Anek Devanagari", sans-serif;
+}
